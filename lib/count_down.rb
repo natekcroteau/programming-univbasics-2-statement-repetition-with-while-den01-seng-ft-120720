@@ -1,7 +1,7 @@
 # Write your code here
 
-count = 6
-while count > 3 do 
-  puts "I am the #{count}, I love to count!"
+count = 11
+while count > 2 do 
+  puts "I am #{count}, I love to count!"
   count -= 1
 end
