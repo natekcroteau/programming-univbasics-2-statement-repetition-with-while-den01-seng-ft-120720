@@ -3,7 +3,7 @@ count = 10
 its_time = 0
 
 
-while count > 0 do 
+while count >= 1 do 
   puts "#{count}"
   count -= 1
   break if count == its_time
