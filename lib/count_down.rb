@@ -1,5 +1,7 @@
 # Write your code here
 
-while -1 do
-  puts "say this forever..."
+count = o
+while count < 3 do 
+  puts "I am the #{count}, I love to count!"
+  count = count + 1 
 end
